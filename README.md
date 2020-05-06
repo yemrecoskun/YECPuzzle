@@ -1,7 +1,7 @@
 <h1 align="center">YEC Puzzle</h1>
 <p align="center">
-<img src="https://github.com/yemrecoskun/YECPuzzle/blob/master/PuzzleGame/PuzzleImage/giphy.gif" width="250" height="400"/>
-<img src="https://github.com/yemrecoskun/YECPuzzle/blob/master/PuzzleGame/PuzzleImage/level.gif" width="250" height="400"/>
+<img src="https://github.com/yemrecoskun/YECPuzzle/blob/master/PuzzleGame/PuzzleImage/giphy.gif" width="250" height="450"/>
+<img src="https://github.com/yemrecoskun/YECPuzzle/blob/master/PuzzleGame/PuzzleImage/level.gif" width="250" height="450"/>
 </p>
 <p align="center">Mobil cihazlar(IOS/Android) için Levelli Puzzle Uygulaması</p>
 
